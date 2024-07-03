@@ -1,4 +1,4 @@
-package lab.sagiri.pvtb
+package sagiri.pvtb
 
 import io.flutter.embedding.android.FlutterActivity
 
